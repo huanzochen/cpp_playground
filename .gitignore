@@ -45,3 +45,5 @@ CLion_playground/httpRequests/
 # Datasource local storage ignored files
 CLion_playground/dataSources/
 CLion_playground/dataSources.local.xml
+
+CLion_playground/cmake-build-debug/

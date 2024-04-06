@@ -1,0 +1,9 @@
+[{
+  "file": "/Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project2/main.cpp",
+  "directory": "/Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project2",
+  "command": "clang++ -c /Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project2/main.cpp -o /Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project2/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project1/main.cpp",
+  "directory": "/Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project1",
+  "command": "clang++ -c /Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project1/main.cpp -o /Users/ziquanh19/Documents/training/cpp_playground/codelite/Workspace2/Project1/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
