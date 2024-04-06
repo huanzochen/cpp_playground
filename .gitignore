@@ -31,3 +31,17 @@
 *.exe
 *.out
 *.app
+
+## Codelite section 
+codelite/**/.cache/*
+codelite/**/.codelite/*
+
+## CLion
+# Default ignored files
+CLion_playground/shelf/
+CLion_playground/workspace.xml
+# Editor-based HTTP Client requests
+CLion_playground/httpRequests/
+# Datasource local storage ignored files
+CLion_playground/dataSources/
+CLion_playground/dataSources.local.xml
